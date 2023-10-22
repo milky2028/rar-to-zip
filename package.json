@@ -1,0 +1,8 @@
+{
+  "name": "rar-to-zip",
+  "version": "1.0.0",
+  "description": "Convert a rar archive to zip",
+  "main": "src/index.mjs",
+  "author": "Tyler Gross",
+  "license": "ISC"
+}
