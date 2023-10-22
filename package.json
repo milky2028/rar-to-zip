@@ -4,5 +4,8 @@
   "description": "Convert a rar archive to zip",
   "main": "src/index.mjs",
   "author": "Tyler Gross",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "zx": "^7.2.3"
+  }
 }
